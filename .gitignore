@@ -1,0 +1,51 @@
+# ===============================
+# Build directories
+# ===============================
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# ===============================
+# Qt Creator / Qt specific
+# ===============================
+.qtcreator/
+*.pro.user
+*.autosave
+*.qmlc
+*.qmlproject.user
+
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Compiled binaries
+# ===============================
+*.exe
+*.out
+*.app
+
+# ===============================
+# Object and temp files
+# ===============================
+*.o
+*.obj
+*.log
+*.tmp
+
+# ===============================
+# Qt translation build files
+# ===============================
+*.qm
+
+# ===============================
+# User-specific files
+# ===============================
+*.user
+*.user.*
