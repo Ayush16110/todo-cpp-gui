@@ -103,7 +103,7 @@ todo-gui/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ayush16110/todo-cpp
+   git clone https://github.com/Ayush16110/todo-cpp-gui.git
    ```
 2. Open the project in **Qt Creator**
 3. Configure using **CMake**
